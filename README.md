@@ -1,6 +1,8 @@
 # MVP---Engenharia-de-Dados
 Aluno: Matheus Monteiro Novo de Assis
 
+# Link do Notebook no Databricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1098376480540035/2451176262067821/8969848685121230/latest.html
+
 ## 🎯 Problema a ser resolvido
 
 O objetivo deste MVP é analisar o desempenho dos times do **Campeonato Brasileiro da Série A** ao longo das temporadas de **2003 a 2022**, buscando entender fatores que influenciam os resultados das partidas e comportamentos recorrentes entre os times mais bem-sucedidos (campeões, classificados para a Libertadores) e os de pior desempenho (rebaixados).
